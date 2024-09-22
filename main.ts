@@ -69,7 +69,7 @@ const authTokens: string[] = [
   "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiNjZlZjQzNTc1MDIzMDkwNjNkODc4YzRhIiwiaWF0IjoxNzI2OTU2Mzc1LCJleHAiOjE3MjcwNDI3NzUsInR5cGUiOiJhY2Nlc3MifQ.uqc1Wb058HASck9aznIUiH4DrsqBy7eMOgD701NOvcs",
   // 09025967865
   "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiNjZlZjQ0MmU1MDIzMDkwNjNkODkwNzJmIiwiaWF0IjoxNzI2OTU2NTkwLCJleHAiOjE3MjcwNDI5OTAsInR5cGUiOiJhY2Nlc3MifQ.twyND0aNkmc-S7_JNZHkzd8AGhckDAt0-iY-WlYvOmA",
-  // 09059549183
+  //09059549183
 ];
 
 makeMoney(authTokens);
