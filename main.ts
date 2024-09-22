@@ -13,6 +13,7 @@ async function action(headers: Record<string, string>): Promise<boolean> {
   return res.status === 201;
 }
 
+
 async function getNextTime(headers: Record<string, string>): Promise<number> {
   const res = await fetch("https://api-mission.goatsbot.xyz/missions/user", {
     headers,
