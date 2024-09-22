@@ -20,7 +20,7 @@ async function getNextTime(headers: Record<string, string>): Promise<number> {
   });
 
   if (res.status !== 200) {
-    throw new Error("Get missions request failed");
+    return 200000000000000000000
   }
 
   const data = await res.json();
